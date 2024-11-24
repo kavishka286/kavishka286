@@ -11,7 +11,7 @@
 - :nerd_face: Always learning new things.
 - :technologist: I love using Software as a solution for every Problem.
 - 📫 How to reach me kavishkasenavirathna6@gmail.com
-- ⚡ Fun fact call me as Welandagoda
+- ⚡ Fun fact call me as Senavirathna
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
