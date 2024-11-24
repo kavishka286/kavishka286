@@ -15,9 +15,9 @@
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
-<a href="https://www.linkedin.com/in/dinuth-rashmika-64119a314/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shenal de silva" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100088961342291&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shenal de silva" height="30" width="40" /></a>
-<a href="https://www.instagram.com/dinuth.rashmika?igsh=dDAyMm54ZGV1MDhw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shenal chanuka" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kavishka-senavirathna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shenal de silva" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100079220147833" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shenal de silva" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kavishka__senavirathna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shenal chanuka" height="30" width="40" /></a>
 </p>
 
 
